@@ -3,7 +3,7 @@ body {
 	text-align: center;
 	font-family: "Calibri Light";
 }
-h1, p {
+h1, p, ul, li {
 	color: white;
 }
 #Slogan {
