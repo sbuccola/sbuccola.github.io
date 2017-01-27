@@ -1,5 +1,7 @@
 body {
 	background: black;
+	text-align: center;
+	font-family: "Calibri Light";
 }
 h1, p {
 	color: white;
