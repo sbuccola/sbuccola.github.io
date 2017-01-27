@@ -1,0 +1,9 @@
+body {
+	background: images/PCN.jpg;
+}
+h1, p {
+	color: white;
+}
+#second {
+	font-style: italic;
+}
