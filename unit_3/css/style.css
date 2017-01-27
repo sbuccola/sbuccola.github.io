@@ -1,5 +1,5 @@
 body {
-	background: img src="images/pcn.jpg";
+	background: img src("images/pcn.jpg");
 	text-align: center;
 	font-family: "Calibri Light";
 }
