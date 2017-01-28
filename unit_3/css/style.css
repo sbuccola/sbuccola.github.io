@@ -2,9 +2,8 @@ body {
 	background: url("https://goo.gl/images/gz1eQH");
 	text-align: center;
 	font-family: "Calibri Light";
-}
-h1, p, ul {
-	color: white;
+	color: #BAFFE9;
+
 }
 #Slogan {
 	font-style: italic;
