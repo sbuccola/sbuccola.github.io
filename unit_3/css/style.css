@@ -5,8 +5,10 @@ body {
 	color: #000000;
 #Slogan {
 	font-style: italic;
-	font-weight: bold;
 }
 p {
 	font-size: 50px;
+}
+#Summary {
+	margin: 10px 5px 15px 20px;
 }
