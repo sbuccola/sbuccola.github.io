@@ -1,14 +1,8 @@
 body {
-	background-image: url("images/PCN.jpg");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
 	text-align: center;
 	font-family: "Calibri Light";
+	background-color: #A0EBFF;
 	color: black;
-}
-ul {
-	text-align: center;
-}
 #Slogan {
 	font-style: italic;
 }
