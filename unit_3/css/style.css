@@ -1,9 +1,13 @@
 body {
-	background: url("images/pcn.jpg");
-	background-size: cover;
+	background-image: url("images/pcn.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 	text-align: center;
 	font-family: "Calibri Light";
 	color: black;
+}
+ul {
+	text-align: center;
 }
 #Slogan {
 	font-style: italic;
