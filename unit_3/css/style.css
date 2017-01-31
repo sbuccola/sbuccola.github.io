@@ -15,9 +15,9 @@ p {
 	margin:10px 40px;
 }
 #List {
-	text-align: left;
 	font-weight: bold;
 }
 ul {
-	text-align: left;
+	text-align: center;
+	list-style-type: none;
 }
