@@ -1,8 +1,8 @@
 body {
 	text-align: center;
 	font-family: "Calibri Light";
-	background-color: #007F1C;
-	color: #000000;
+	background-color: #FFFFFF;
+	color: #007F1C;
 }
 #Slogan {
 	font-style:italic;
@@ -12,7 +12,7 @@ p {
 	font-size: 20px;
 }
 #Summary {
-	margin:10px 40px;
+	margin:10px 70px;
 }
 #List {
 	font-weight: bold;
@@ -22,5 +22,5 @@ ul {
 	list-style-type: none;
 }
 #Logo {
-	background-position: left top;
+	background-position: 30% 20%;
 }
