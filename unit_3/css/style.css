@@ -3,15 +3,18 @@ body {
 	background-color: #A0EBFF;
 	color: #000000;
 }
-h1, p {
+h1, p, img {
 	text-align: center;
 }
 #Slogan {
 	font-style:italic;
 }
 p {
-	font-size: 50px;
+	font-size: 20px;
 }
 #Summary {
 	margin:10px 5px 15px 20px;
+}
+#List {
+	text-align: left;
 }
