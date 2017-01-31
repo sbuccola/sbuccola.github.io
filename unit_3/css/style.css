@@ -1,14 +1,17 @@
 body {
-	text-align: center;
 	font-family: "Calibri Light";
 	background-color: #A0EBFF;
 	color: #000000;
+}
+h1, p {
+	text-align: center;
+}
 #Slogan {
-	font-style: italic;
+	font-style:italic;
 }
 p {
 	font-size: 50px;
 }
 #Summary {
-	margin: 10px 5px 15px 20px;
+	margin:10px 5px 15px 20px;
 }
