@@ -1,7 +1,7 @@
 body {
 	text-align: center;
 	font-family: "Calibri Light";
-	background-color: #A0EBFF;
+	background-color: #FFFFFF;
 	color: #000000;
 }
 #Slogan {
@@ -20,4 +20,7 @@ p {
 ul {
 	text-align: center;
 	list-style-type: none;
+}
+#Logo {
+	text-align: left;
 }
