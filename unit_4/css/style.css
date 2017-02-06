@@ -8,9 +8,11 @@ body {
 #Slogan {
 	font-style:italic;
 	font-size: 15px;
+	font-family: "Ubuntu", sans-serif;
 }
 p {
 	font-size: 20px;
+	font-family: "Ubuntu", sans-serif;
 	}
 #Summary {
 	margin:10px 70px;
@@ -18,10 +20,12 @@ p {
 }
 #List {
 	font-weight: bold;
+	font-family: "Ubuntu", sans-serif;
 }
 ul {
 	text-align: center;
 	list-style-type: none;
+	font-family: "Ubuntu", sans-serif;
 }
 #Logo {
 	background-position: 30% 20%;
