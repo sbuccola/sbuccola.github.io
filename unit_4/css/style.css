@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito+Sans|PT+Sans+Narrow|Titillium+Web|Ubuntu);
 body {
 	text-align: center;
 	font-family: "Calibri Light";
@@ -10,9 +11,10 @@ body {
 }
 p {
 	font-size: 20px;
-}
+	}
 #Summary {
 	margin:10px 70px;
+	font-family: "Ubuntu", sans-serif;
 }
 #List {
 	font-weight: bold;
