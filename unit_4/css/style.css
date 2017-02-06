@@ -15,17 +15,17 @@ p {
 	font-family: "Ubuntu", sans-serif;
 	}
 #Summary {
-	margin:10px 70px;
+	margin:10px 90px;
 	font-family: "Ubuntu", sans-serif;
 }
 #List {
 	font-weight: bold;
-	font-family: "Ubuntu", sans-serif;
+	font-family: "PT Sans Narrow", sans-serif;
 }
 ul {
 	text-align: center;
 	list-style-type: none;
-	font-family: "Ubuntu", sans-serif;
+	font-family: "PT Sans Narrow", sans-serif;
 }
 #Logo {
 	background-position: 30% 20%;
