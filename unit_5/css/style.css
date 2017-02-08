@@ -1,3 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito+Sans|PT+Sans+Narrow|Titillium+Web|Ubuntu);
+body {
+	color: #000080;
+	font-family: "Ubuntu", sans-serif;
+}
 #logo {
 	display: block;
 	max-width: 40%;
