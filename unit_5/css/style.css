@@ -3,7 +3,7 @@ body {
 	color: #000080;
 	font-family: "Ubuntu", sans-serif;
 }
-#logo {
+header {
 	display: block;
 	max-width: 40%;
 	height: auto;
