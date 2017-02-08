@@ -3,3 +3,10 @@
 	max-width: 40%;
 	height: auto;
 }
+footer {
+	text-align: center;
+	padding: 1em 0;
+}
+#copyright {
+	text-align: left;
+}
