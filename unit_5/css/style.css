@@ -6,7 +6,7 @@ body {
 }
 .resize {
 	display: block;
-	width: 100px;
+	width: 300px;
 	height: .5em;
 }
 h1, h2 {
@@ -29,7 +29,7 @@ ul {
 footer {
 	text-align: center;
 	padding: 1em 0;
-	font-size: .8em;
+	font-size: .6em;
 }
 #copyright {
 	text-align: right;
