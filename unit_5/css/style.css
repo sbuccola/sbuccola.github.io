@@ -5,13 +5,20 @@ body {
 }
 header {
 	display: block;
-	max-width: 40%;
-	height: auto;
+	width: 2em;
+	height: 40%;
+}
+#about {
+	padding: 1em 0;
+}
+#services {
+	padding: 1em 0;
 }
 footer {
 	text-align: center;
 	padding: 1em 0;
 }
 #copyright {
-	text-align: left;
+	text-align: right;
+	font-size: 10px;
 }
