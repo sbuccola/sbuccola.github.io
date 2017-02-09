@@ -2,11 +2,11 @@
 body {
 	color: #000080;
 	font-family: "Ubuntu", sans-serif;
-	font-size: 20x;
+	font-size: 20px;
 }
 .resize {
 	display: block;
-	width: 100;
+	width: 100px;
 	height: .5em;
 }
 h1, h2 {
