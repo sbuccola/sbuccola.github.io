@@ -3,7 +3,7 @@ body {
 	color: #000080;
 	font-family: "Ubuntu", sans-serif;
 }
-header {
+.resize {
 	display: block;
 	width: 40;
 	height: .5em;
@@ -21,7 +21,7 @@ ul {
 footer {
 	text-align: center;
 	padding: 1em 0;
-	font-size: 20px;
+	font-size: 15px;
 }
 #copyright {
 	text-align: right;
