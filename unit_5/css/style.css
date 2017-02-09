@@ -14,6 +14,9 @@ header {
 #services {
 	padding: 1em 0;
 }
+ul {
+	list-style: none;
+}
 footer {
 	text-align: center;
 	padding: 1em 0;
