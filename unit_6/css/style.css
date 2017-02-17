@@ -1,0 +1,49 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito+Sans|PT+Sans+Narrow|Titillium+Web|Ubuntu);
+body {
+	color: #000080;
+	font-family: "Ubuntu", sans-serif;
+	font-size: 20px;
+}
+.resize {
+	display: block;
+	width: 300px;
+	height: auto;
+}
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+}
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+}
+h1, h2 {
+	font-size: 1.5em;
+}
+p {
+	font-size: .8em;
+	margin: 0 800px 0 0;
+	padding: .5em 0;
+}
+ul {
+	font-size: .8em;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+footer {
+	text-align: center;
+	padding: 1em 0;
+	font-size: .6em;
+}
+#copyright {
+	text-align: right;
+	font-size: 10px;
+}
