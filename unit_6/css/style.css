@@ -9,7 +9,16 @@ body {
 	width: 300px;
 	height: auto;
 }
-
+nav {
+	font-size: 1.5em;
+	float: right;
+}
+nav a {
+	text-decoration: none;
+	color: #000000;
+	margin: 1.8em;
+	display: inline-block;
+}
 h1, h2 {
 	font-size: 1.5em;
 }
