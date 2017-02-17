@@ -10,9 +10,10 @@ body {
 	height: auto;
 }
 nav {
-	font-size: 1.5em;
-	float: right;
+	font-size: 1em;
+	float: left;
 	display: block;
+	background-color: #000080;
 }
 nav a {
 	background-color: #000080;
