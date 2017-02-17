@@ -12,13 +12,13 @@ body {
 nav {
 	font-size: 1.5em;
 	float: right;
+	display: block;
 }
 nav a {
 	background-color: #000080;
 	text-decoration: none;
 	color: #FFFFFF;
 	margin: .9em;
-	display: block;
 }
 
 h1, h2 {
