@@ -40,7 +40,7 @@ ul {
 }
 #two_column {
 	background-color: #FFFFFF;
-	border: 1px black solid;
+	border: none;
 	padding: 20px;
 }
 #left {
