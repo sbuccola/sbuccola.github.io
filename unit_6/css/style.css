@@ -13,13 +13,13 @@ img {
 	padding: 0 0 1.5em 0;
 }
 nav {
-	font-size: 1em;
 	float: left;
 	display: block;
 	background-color: #000080;
 	padding: 2em;
 }
 nav a {
+	font-size:.8em;
 	background-color: #000080;
 	text-decoration: none;
 	color: #FFFFFF;
