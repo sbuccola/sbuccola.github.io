@@ -24,7 +24,12 @@ nav a {
 	display: block;
 	float: left;
 }
-
+section {
+	width: 46%;
+	padding: 2%;
+	display: inline-block;
+	overflow: auto;
+}
 h1, h2 {
 	font-size: 1.5em;
 }
