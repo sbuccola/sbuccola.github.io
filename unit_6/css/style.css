@@ -13,18 +13,16 @@ img {
 	padding: 0 0 1.5em 0;
 }
 nav {
-	float: left;
-	display: block;
 	background-color: #000080;
-	padding: .5em;
 }
 nav a {
 	font-size:.8em;
 	background-color: #000080;
 	text-decoration: none;
 	color: #FFFFFF;
-	margin: 0;
-	display: inline-block;
+	padding: 20px;
+	display: block;
+	float: left;
 }
 
 h1, h2 {
