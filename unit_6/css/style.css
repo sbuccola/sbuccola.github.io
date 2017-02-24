@@ -37,24 +37,12 @@ ul {
 	margin: 0;
 	padding: 0;
 }
-#two_column {
-	background-color: #FFFFFF;
-	border: none;
-	padding: 20px;
-}
-#left {
-	background-color: #E582A2;
-	border: 1px black solid;
-	padding: 20px;
+.column {
 	float: left;
-	width: 40%;
-}
-#right {
-	background-color: #E55B88;
-	border: 1px black solid;
+	width: 260px;
+	height: 300px;
 	padding: 20px;
-	float: right;
-	width: 40%;
+	margin: 0;
 }
 footer {
 	text-align: center;
