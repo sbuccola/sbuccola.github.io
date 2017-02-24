@@ -25,6 +25,9 @@ nav a {
 	display: inline-block;
 	float: left;
 }
+a:hover {
+	background-color: #FFFFFF;
+}
 section {
 	width: 46%;
 	padding: 2%;
