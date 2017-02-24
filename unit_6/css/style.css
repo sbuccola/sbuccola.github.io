@@ -21,7 +21,8 @@ nav a {
 	text-decoration: none;
 	color: #FFFFFF;
 	padding: 20px;
-	display: block;
+	margin: 1.8em;
+	display: inline-block;
 	float: left;
 }
 section {
@@ -29,6 +30,7 @@ section {
 	padding: 2%;
 	display: inline-block;
 	overflow: auto;
+	clear: both;
 }
 h1, h2 {
 	font-size: 1.5em;
@@ -41,6 +43,14 @@ ul {
 	list-style: none;
 	margin: 0;
 	padding: 0;
+}
+li {
+	float: left;
+	width: 50%;
+	height: 6em;
+	outline: 3px solid #222;
+	text-align: center;
+	line-height: 6em;
 }
 #about {
 	float: left;
