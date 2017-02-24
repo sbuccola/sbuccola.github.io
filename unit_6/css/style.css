@@ -16,7 +16,7 @@ nav {
 	float: left;
 	display: block;
 	background-color: #000080;
-	padding: 0;
+	padding: .5em;
 }
 nav a {
 	font-size:.8em;
