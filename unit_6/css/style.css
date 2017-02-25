@@ -19,10 +19,6 @@ div {
 	padding: 2%;
 	display: inline-block;
 }
-section {
-	overflow: auto;
-	clear: both;
-}
 main {
 	float: left;
 	margin: 0 40%;
