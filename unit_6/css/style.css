@@ -23,6 +23,12 @@ section {
 	float: left;
 	clear: both;
 }
+main {
+	margin: 0 40px 0 0;
+}
+aside {
+	margin: 0 0 0 40px;
+}
 h2 {
 	text-transform: uppercase;
 	border-bottom: 4px solid black;
@@ -64,7 +70,7 @@ a: hover {
 footer {
 	text-align: center;
 	padding: 1em 0;
-	font-size: .6em;
+	font-size: .8em;
 }
 #copyright {
 	text-align: right;
