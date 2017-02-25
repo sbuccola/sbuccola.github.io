@@ -55,6 +55,7 @@ li {
 }
 nav {
 	float: left;
+	background-color: #000080;
 }
 nav a {
 	text-decoration: none;
