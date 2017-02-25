@@ -22,10 +22,10 @@ div {
 section {
 	overflow: auto;
 }
-#about {
+main {
 	float: left;
 }
-#services {
+aside {
 	float: right;
 }
 h2 {
