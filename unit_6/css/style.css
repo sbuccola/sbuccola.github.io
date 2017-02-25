@@ -3,3 +3,8 @@ body {
 	font-size: 20px;
 	font-family: "Ubuntu", sans-serif;
 }
+.resize {
+	display: block;
+	width: 300px;
+	height: auto;
+}
