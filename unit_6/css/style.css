@@ -29,7 +29,7 @@ section {
 h1, h2 {
 	text-transform: uppercase;
 	border-bottom: 4px solid black;
-	display: inline-blcok;
+	display: inline-block;
 	font-weight: 800;
 	font-size: 1.5em;
 }
