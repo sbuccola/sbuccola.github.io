@@ -13,7 +13,7 @@ img {
 }
 div {
 	font-size: .8em;
-	width: 98%;
+	width: 96%;
 	padding: 2%;
 	display: inline-block;
 }
@@ -25,4 +25,11 @@ section {
 }
 #services {
 	float: right;
+}
+h1, h2 {
+	text-transform: uppercase;
+	border-bottom: 4px solid black;
+	display: inline-blcok;
+	font-weight: 800;
+	font-size: 1.5em;
 }
