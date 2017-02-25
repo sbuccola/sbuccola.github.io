@@ -10,6 +10,8 @@ body {
 }
 img {
 	padding: 0 0 1.5em 0;
+	display: block;
+	background: #FFFFFF;
 }
 div {
 	font-size: .8em;
@@ -26,10 +28,18 @@ section {
 #services {
 	float: right;
 }
-h1, h2 {
+h2 {
 	text-transform: uppercase;
 	border-bottom: 4px solid black;
 	display: inline-block;
 	font-weight: 800;
 	font-size: 1.5em;
+	padding: .8em 0;
+	color: #000080;
+	border-bottom-color: #000080;
+}
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
 }
