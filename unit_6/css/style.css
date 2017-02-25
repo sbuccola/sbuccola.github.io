@@ -20,3 +20,9 @@ div {
 section {
 	overflow: auto;
 }
+#about {
+	float: left;
+}
+#services {
+	float: right;
+}
