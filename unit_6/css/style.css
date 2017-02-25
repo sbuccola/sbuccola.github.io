@@ -19,13 +19,8 @@ div {
 	padding: 2%;
 	display: inline-block;
 }
-main {
+section {
 	float: left;
-	margin: 0 40%;
-}
-aside {
-	float: right;
-	margin: 0 40%;
 }
 h2 {
 	text-transform: uppercase;
