@@ -55,12 +55,6 @@ li {
 	text-align: center;
 	line-height: 6em;
 }
-#about {
-	float: left;
-}
-#services {
-	float: right;
-}
 footer {
 	text-align: center;
 	padding: 1em 0;
