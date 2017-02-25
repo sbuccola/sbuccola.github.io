@@ -25,9 +25,11 @@ section {
 }
 main {
 	float: left;
+	margin: 40%;
 }
 aside {
 	float: right;
+	margin: 40%;
 }
 h2 {
 	text-transform: uppercase;
