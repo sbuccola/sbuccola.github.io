@@ -66,4 +66,9 @@ nav a {
 footer {
 	text-align: center;
 	padding: 1em 0;
+	font-size: .6em;
+}
+#copyright {
+	text-align: right;
+	font-size: 10px;
 }
