@@ -22,11 +22,11 @@ nav a {
 	color: #FFFFFF;
 	padding: 20px;
 	margin: 1.8em;
-	display: inline-block;
+	display: block;
 	float: left;
 }
 a:hover {
-	background-color: #FFFFFF;
+	background-color: #46d246;
 }
 section {
 	width: 46%;
