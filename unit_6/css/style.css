@@ -19,6 +19,9 @@ div {
 	padding: 2%;
 	display: inline-block;
 }
+.column {
+	float: left;
+}
 section {
 	clear: both;
 }
@@ -56,6 +59,7 @@ nav a {
 	color: white;
 	margin: 1.8em;
 	background-color: #000080;
+	padding: 1em;
 }
 a:hover {
 	background-color: #46d246;
