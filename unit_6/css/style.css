@@ -57,13 +57,13 @@ li {
 nav {
 	float: left;
 	background-color: #000080;
+	padding: 1em;
 }
 nav a {
 	text-decoration: none;
 	color: white;
 	margin: 1.8em;
 	background-color: #000080;
-	padding: 0 100% 1em 0;
 }
 a:hover {
 	background-color: #46d246;
