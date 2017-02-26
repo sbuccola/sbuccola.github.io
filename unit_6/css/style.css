@@ -59,7 +59,7 @@ nav a {
 	color: white;
 	margin: 1.8em;
 	background-color: #000080;
-	padding: 1em;
+	padding: 0 100% 1em 0;
 }
 a:hover {
 	background-color: #46d246;
