@@ -21,9 +21,13 @@ div {
 }
 .column {
 	float: left;
+	padding: 15px;
 }
-section {
-	clear: both;
+#about {
+	width: 50%;
+}
+#services {
+	width: 50%;
 }
 h2 {
 	text-transform: uppercase;
