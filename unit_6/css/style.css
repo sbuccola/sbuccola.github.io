@@ -20,14 +20,7 @@ div {
 	display: inline-block;
 }
 section {
-	float: left;
 	clear: both;
-}
-main {
-	margin: 0 800px 0 0;
-}
-aside {
-	margin: 0 0 0 800px;
 }
 h2 {
 	text-transform: uppercase;
