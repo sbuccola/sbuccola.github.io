@@ -24,10 +24,10 @@ div {
 	padding: 15px;
 }
 #about {
-	width: 50%;
+	width: 40%;
 }
 #services {
-	width: 50%;
+	width: 40%;
 }
 h2 {
 	text-transform: uppercase;
@@ -67,11 +67,13 @@ nav a {
 }
 a:hover {
 	background-color: #46d246;
+	padding: 1em;
 }
 footer {
 	text-align: center;
 	padding: 1em 0;
 	font-size: .8em;
+	clear: both;
 }
 #copyright {
 	text-align: right;
