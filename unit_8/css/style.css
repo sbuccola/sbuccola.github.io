@@ -1,0 +1,89 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito+Sans|PT+Sans+Narrow|Titillium+Web|Ubuntu);
+body {
+	font-size: 20px;
+	font-family: "Ubuntu", sans-serif;
+}
+.resize {
+	display: block;
+	width: 250px;
+	height: auto;
+}
+img {
+	padding: 0 0 1.5em 0;
+	display: block;
+	background: #FFFFFF;
+}
+div {
+	font-size: .8em;
+	width: 96%;
+	padding: 2%;
+	display: inline-block;
+}
+.column {
+	float: left;
+	padding: 15px;
+}
+#about {
+	width: 54%;
+}
+#services {
+	width: 38%;
+}
+h2 {
+	text-transform: uppercase;
+	border-bottom: 4px solid black;
+	display: inline-block;
+	font-weight: 800;
+	font-size: 1.5em;
+	padding: .8em 0;
+	color: #000080;
+	border-bottom-color: #000080;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li {
+	float: right;
+	width: 50%;
+	height: 6em;
+	outline: 3px solid #222;
+	text-align: center;
+	line-height: 6em;
+	color: #000;
+	background: #fff;
+}
+nav {
+	float: left;
+	background-color: #000080;
+	padding: 1em;
+}
+nav a {
+	text-decoration: none;
+	color: white;
+	margin: 1.8em;
+	background-color: #000080;
+}
+a:hover {
+	background-color: #46d246;
+	padding: 1em;
+}
+footer {
+	text-align: center;
+	padding: 1em 0;
+	font-size: .8em;
+	clear: both;
+}
+#copyright {
+	text-align: right;
+	font-size: 10px;
+}
+.clearfix: after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
