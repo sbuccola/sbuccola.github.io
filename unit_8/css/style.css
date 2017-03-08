@@ -69,6 +69,12 @@ a:hover {
 	background-color: #46d246;
 	padding: 1em;
 }
+@media only screen and (max-width: 596px) {
+	nav {
+		float: none;
+		width: auto;
+	}
+}
 footer {
 	text-align: center;
 	padding: 1em 0;
