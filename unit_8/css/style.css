@@ -23,12 +23,6 @@ div {
 	float: left;
 	padding: 2%;
 }
-@media only screen and (max-width: 200px) {
-	.column {
-		float: none;
-		width: auto;
-	}
-}
 #about {
 	width: 54%;
 }
@@ -75,12 +69,6 @@ a:hover {
 	background-color: #46d246;
 	padding: 1em;
 }
-@media only screen and (max-width: 480px) {
-	nav {
-		float: none;
-		width: auto;
-	}
-}
 footer {
 	text-align: center;
 	padding: 1em 0;
@@ -98,4 +86,16 @@ footer {
 	content: "";
 	clear: both;
 	height: 0;
+}
+@media only screen and (max-width: 480px) {
+	nav {
+		float: none;
+		width: auto;
+	}
+}
+@media only screen and (max-width: 200px) {
+	.column {
+		float: none;
+		width: auto;
+	}
 }
