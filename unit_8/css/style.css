@@ -23,6 +23,12 @@ div {
 	float: left;
 	padding: 2%;
 }
+@media only screen and (max-width: 200px) {
+	.column {
+		float: none;
+		width: auto;
+	}
+}
 #about {
 	width: 54%;
 }
