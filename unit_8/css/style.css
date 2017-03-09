@@ -69,7 +69,7 @@ a:hover {
 	background-color: #46d246;
 	padding: 1em;
 }
-@media only screen and (max-width: 868px) {
+@media only screen and (max-width: 480px) {
 	nav {
 		float: none;
 		width: auto;
